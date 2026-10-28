@@ -1,0 +1,1 @@
+Não se aplica: análise feita em Google Sheets, sem bibliotecas externas.
