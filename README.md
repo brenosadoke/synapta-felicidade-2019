@@ -81,16 +81,16 @@ Quanto mais perto de 1, mais os dois valores sobem juntos.
 
 ## Gráficos
 
-![Os 10 países mais felizes em 2019](images/Os_10_países_mais_felizes_em_2019.png)
+![Os 10 países mais felizes em 2019](Os%2010%20pa%C3%ADses%20mais%20felizes%20em%202019.png)
 Mostra a nota dos 10 países mais felizes. As barras são parecidas (entre 7,2 e 7,8).
 
-![Os 10 países menos felizes em 2019](images/Os_10_países_menos_felizes_em_2019.png)
+![Os 10 países menos felizes em 2019](Os%2010%20pa%C3%ADses%20menos%20felizes%20em%202019.png)
 Mostra a nota dos 10 países menos felizes (entre 2,9 e 3,6), bem abaixo do grupo do topo.
 
-![Relação entre PIB per capita e felicidade](images/Relação_entre_PIB_per_capita_e_felicidade__2019_.png)
+![Relação entre PIB per capita e felicidade](Rela%C3%A7%C3%A3o%20entre%20PIB%20per%20capita%20e%20felicidade%20%282019%29.png)
 Cada ponto é um país. Quanto maior a contribuição do PIB, maior tende a ser a nota de felicidade.
 
-![Relação entre expectativa de vida saudável e felicidade](images/Relação_entre_expectativa_de_vida_saudável_e_felicidade__2019_.png)
+![Relação entre expectativa de vida saudável e felicidade](Rela%C3%A7%C3%A3o%20entre%20expectativa%20de%20vida%20saud%C3%A1vel%20e%20felicidade%20%282019%29.png)
 Cada ponto é um país. Maior expectativa de vida saudável tende a acompanhar notas mais altas.
 
 ## Conclusões
